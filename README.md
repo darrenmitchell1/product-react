@@ -10,12 +10,12 @@ Application demonstrates understanding of:
 * Data propagation to children
 * react-router-dom for the Routing and axios for HTTP requests
 
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 ## Open Issues
 
 * Show page layout needs tidying up
 * Index page sort and pagination functionality to be added
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Prerequisite
 
@@ -29,7 +29,7 @@ git clone https://github.com/darrenmitchell1/product-react.git
 
 navigate to the product-react folder
 
-# Possible CORS Issue
+## Possible CORS Issue
 
 If you get a CORS issue you may have to add Allow-Control-Allow-Origin:* Extension for Chrome
 
